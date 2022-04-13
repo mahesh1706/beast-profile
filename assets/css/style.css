@@ -149,7 +149,7 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
     margin-left: 15px;
 }
 .sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a {color:#6a708e;}
-.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #d92cf9;}
+.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:hover,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li > a:focus,.sticky-wrapper.is-sticky nav.navbar.bootsnav ul.nav > li.active>a{color: #f92c2c;}
 /*.nav li*/
 
 
@@ -207,7 +207,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #f92c2c;}
 
 /*.header-text-area*/
 .header-text h2 {
-    color: #fff;
+    color: #ffffff;
     font-size: 34px;
     font-weight: 400;
     text-transform: uppercase;
@@ -238,7 +238,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #f92c2c;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#9f00ff;border: 1px solid #9f00ff;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#000000;border: 1px solid #020202;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -263,7 +263,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #f92c2c;}
     margin: 35px 0;
 }
 .single-about-add-info h3 {
-    color: #636a82;
+    color: #f92c2c;
     font-size: 16px;
     text-transform: capitalize;
 }
@@ -292,7 +292,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #f92c2c;}
     position: absolute;
     bottom: 0;
     left: 0;
-    width: 80%;
+    width: 70%;
     height: 50px;
     background: #f92c2c;
 }
@@ -303,16 +303,16 @@ nav.navbar.bootsnav .navbar-toggle i{color: #f92c2c;}
 .about-list-icon  ul li a {
     padding-right: 22px;
     cursor:pointer;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 .about-list-icon ul li a {
     cursor: pointer;
-    color: #fff;
+    color: rgb(255, 255, 255);
     display: inline-block;
     border: 2px solid;
-    margin-left: 20px;
+    margin-left: 30px;
     border-radius: 8px;
-    width: 30px;
+    width: 35px;
     height: 30px;
     line-height: 28px;
     text-align: center;
