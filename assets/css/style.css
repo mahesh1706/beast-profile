@@ -47,6 +47,12 @@ body{
 	overflow-x:hidden;
 }
 
+@media all and (max-width:480px){
+    .mobile{
+        width: 100%;
+        display: block;
+    }
+  }
 a,a:hover,a:active,a:focus {
 	display:inline-block;
 	text-decoration:none;
