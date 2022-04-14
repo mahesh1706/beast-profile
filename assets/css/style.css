@@ -498,14 +498,14 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     text-transform: uppercase;
 }
 .timeline-content h5 {
-    color: #000000;
+    color: #636a82;
     font-size: 14px;
     font-weight: 300;
     margin: 18px 0 20px;
 }
 .main-timeline .description {
     font-size: 14px;
-    color: #000000;
+    color: #999fb3;
 }
 .main-timeline .timeline-content.right{
     float: right;
@@ -858,4 +858,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     0%   {bottom:0px;}
     100%  {bottom:7px;}
 }
+
+
+    
+
+
+
+  
 /*========================Thank you=================
