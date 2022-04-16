@@ -792,20 +792,21 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .hm-foot-icon ul li{float:left;}
 .hm-foot-icon ul li>a {
-    color: #636a82;
-    margin-right:18px;
-    -webkit-transition: .3s; 
-    -moz-transition:.3s; 
+    size: 80px;
+    color: #000000;
+    margin-right:38px;
+    -webkit-transition: .5s; 
+    -moz-transition:.5s; 
     -ms-transition:.3s; 
     -o-transition:.3s;
     transition: .3s;
 }
 .hm-foot-icon ul li>a:hover{
-    color: #b636ff;
+    color: #f92c2c;
 }/*hm-foot-icon*/
 
 .hm-footer-copyright p{
-    color: #888ea5;
+    color: #000000;
     text-transform: capitalize;
     padding: 38px 0;
 }
